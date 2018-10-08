@@ -4,4 +4,4 @@
 
 之前的版本：[jomsou-site](https://www.github.com/jomsou/jomsou-site)
 
-重构之后：[jomsou-site(https://www.github.com/zenquan/jomsou-site)(用上了littlejs和其中的Slide组件)
+重构之后：[jomsou-site](https://www.github.com/zenquan/jomsou-site)(用上了littlejs和其中的Slide组件)
